@@ -1,4 +1,4 @@
-# CodingTest-CNU-SW
+# CodingTest-CNU-SW-py
 
 2022.12.01 시작한 CNU SW Academy 동계과정 BackEnd Track 학습 중 코딩테스트 문제 풀이 업로드  
 사용 언어 : Python
