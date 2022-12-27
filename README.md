@@ -22,10 +22,10 @@
   - 자물쇠와 키 -> lock_key.py
 - 12월 13일 
   - 직선을 이루는 점 찾기 -> line_dot_search.py
+- 12월 14일
+  - 큐&스택 -> stack_queue.py 
 - 12월 15일 
   - 토마토 
-- 12월 16일
-  - 배열 다루기 -> list_basic.py
 - 12월 19일 
   - 탈옥 방지 -> prison.py
 - 12월 21일 
