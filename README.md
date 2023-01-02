@@ -4,6 +4,7 @@
 사용 언어 : Python
 <br/>
 #### 문제
+###### 2022년
 - 12월 1일 (Java)
   - HelloWorld
 - 12월 2일 
@@ -34,3 +35,12 @@
   - 집합 연산 -> Aggregation.py
 - 12월 23일 
   - 공장색칠 -> colorFactory.py
+- 12월 28일
+  - 트리 탐색(ing) -> treeOrder
+- 12월 29일
+  - 트리 회전(ing) -> treeRotation
+
+###### 2023년
+- 1월 2일
+  - 부분 합 -> subtotal
+  - 타슈 1 
