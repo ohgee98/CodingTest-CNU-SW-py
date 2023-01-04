@@ -2,7 +2,7 @@
 
 2022.12.01 시작한 CNU SW Academy 동계과정 BackEnd Track 학습 중 코딩테스트 문제 풀이 업로드  
 사용 언어 : Python
-<br>
+<br/>
 #### 문제
 ###### 2022년
 - 12월 1일 (Java)
@@ -39,7 +39,7 @@
   - 트리 탐색 -> treeOrder
 - 12월 29일
   - 트리 회전 -> treeRotation
-<br>
+
 ###### 2023년
 - 1월 2일
   - 부분 합 -> subtotal
